@@ -1,3 +1,4 @@
+#Основи програмування (if/for)
 N = int(input("enter your N number: "))
 
 for i in range(0, N + 1):
@@ -9,4 +10,5 @@ for i in range(0, N + 1):
         print("fizz buzz")
     else:
         print(i)
+
 
